@@ -1,0 +1,60 @@
+form{
+  background-color: rgb(14, 253, 213);
+  font-weight: 500px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  height: 100vh;
+  border: 2px solid rgb(9, 31, 73);
+}
+/* .col-sm12{
+  background-color: aqua;
+  border: 50px;
+} */
+.container{
+  font-size: 30px;
+  text-align: center;
+  font-style: italic;
+  font-weight: 24px;
+}
+.App {
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  }
+  
+  table {
+  border: 2px solid forestgreen;
+  width: 500px;
+  height: 350px;
+  }
+  
+  /* th {
+  border-bottom: 1px solid black;
+  } */
+  
+  td {
+  text-align: center;
+  }
+  footer{
+    align-content: center;
+    height: 70px;
+    background-color: aqua;
+  }
+   .styles{
+    text-align: center;
+    text-transform: center;
+    height: 80%;
+    width: 800px;
+    color: firebrick;
+    background-color: aqua;
+    font-size: 24px;
+    font-weight: 24px;
+}
+
+  
+  
